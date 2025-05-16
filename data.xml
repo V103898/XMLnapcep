@@ -8,7 +8,7 @@
     </employee>
     <employee>
         <id>2</id>
-        <firstName>Inav</firstName>
+        <firstName>Ivan</firstName>
         <lastName>Petrov</lastName>
         <country>RU</country>
         <age>23</age>
